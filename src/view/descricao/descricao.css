@@ -1,0 +1,36 @@
+.img-banner{
+    width: 100%;    
+    max-height: 300px;
+    min-height: 300px;   
+  
+}
+
+.box-info{
+    background-color: cornsilk;
+    color: blue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btn-editar i{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    color: blue;
+    transition: .3s ease-in;
+}
+
+.btn-editar i:hover{   
+    color: brown;
+    
+}
+
+.titulo, .visualizacoes, .likes{
+    color: blue;
+}
+
+.visualizacoes, .likes{
+    right: 10px;
+    padding: 10%;
+}

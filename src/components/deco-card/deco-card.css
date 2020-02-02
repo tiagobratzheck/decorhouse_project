@@ -1,0 +1,26 @@
+.rodape-card{
+    color: blue;
+    height: 35px;
+}
+
+.btn-descricao{
+    background-color: azure;
+    color: blue;
+}
+
+.btn-descricao:hover{
+    background-color:blue;
+    color: aliceblue;
+}
+
+.card-text{
+    max-height: 70px;
+    min-height: 70px;
+    overflow: hidden;
+}
+
+.img-deco{
+    max-height: 200px;
+    min-height: 100px;
+    max-width: 100%;
+}

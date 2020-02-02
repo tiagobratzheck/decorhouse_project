@@ -1,0 +1,12 @@
+.navbar{
+    background-color: cornsilk;
+}
+
+.nav-item a{
+    color: blue;
+    transition: .3s ease-in;
+}
+
+.nav-item a:hover{
+    color: black;
+}

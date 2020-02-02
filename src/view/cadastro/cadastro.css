@@ -1,0 +1,13 @@
+.form-login{
+    max-width: 450px;
+}
+
+.btn-cadastro{    
+    background-color: azure;
+    color: blue;
+}
+
+.btn-cadastro:hover{
+    background-color:blue;
+    color: aliceblue;
+}
